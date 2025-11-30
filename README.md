@@ -214,3 +214,14 @@ cast call $FEED_MIRROR_ADDR "latestRoundData()" --rpc-url $DEST_RPC
 cast call $REACTIVE_ADDR "getLastCronInfo()" --rpc-url $REACTIVE_RPC
 ```
 
+
+
+## TRANSACTIONS
+
+The feed reader transaction can be found here https://sepolia.etherscan.io/address/0xfA564A493641F0A7eb62C390DD5FCBdD989A05C4#events
+Link to feed mirror can be found here https://sepolia.etherscan.io/address/0x2B51D7a1a2D5c9Abc6b7E81f94a5a5d2088d1A0D#events
+RVM transaction can be found here https://lasna.reactscan.net/address/0xd2aa84af3aba300908c6b1ae81df3b7db2edd06b/contract/0x362811d59f82f62903e2f0afc607e4d7d6b0449a?screen=transactions
+
+
+Initilization transactions of reader can be found here https://sepolia.etherscan.io/address/0xfA564A493641F0A7eb62C390DD5FCBdD989A05C4
+
